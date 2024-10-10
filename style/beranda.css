@@ -72,14 +72,13 @@
 .img_slider{
     width: 100%;
     height: 500px;
-    /* background-color: aquamarine; */
+    justify-content: center;
     
 }
 .img_slider img{
     width: 100%;
-    padding-top: 150px;
     height: 100%;
-    object-fit: cover;
+    /* object-fit: cover; */
 }
 
 .content{
@@ -89,7 +88,7 @@
     align-items: center ;
 }
 .content h1{
-    padding-top: 150px;
+    padding-top: 30px;
 }
 .content .visi{
     padding-top: 20px;
